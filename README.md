@@ -6,13 +6,14 @@ A powerful CLI tool for forensic analysts and cybersecurity professionals that a
 
 ## 📌 Features
 
-- ✅ Recursive or non-recursive directory scanning  
-- 📁 Extracts file creation, modification, and access times  
-- 🎨 Color-coded terminal output using `colorama` (if available)  
-- 🔍 Filter timeline by event type or date range  
-- 📊 View timeline statistics (event distribution, total data size, duration, etc.)  
-- 💾 Export timeline to **CSV** or **JSON** format  
-- 🌐 Cross-platform support: **Windows**, **Linux**, and **macOS**
+📂 **Directory Scanner**: Analyze any directory with optional recursive scanning.
+⏱  **Timestamps Extractor**: Capture accurate creation, modification, and access times.
+🎨 **Color-coded Terminal Timeline** (if `colorama` is installed).
+📊 **Statistics Dashboard**: View total events, file sizes, and activity duration.
+🔍 **Filters**: By event type (`CREATE`, `MODIFY`, `ACCESS`) and date range.
+💾 **Export to CSV/JSON**: For reporting and archival.
+🧠 **Interactive & Command-line Modes**.
+💡 **Lightweight & Portable**: No heavy dependencies.
 
 ---
 
